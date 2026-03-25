@@ -1,3 +1,7 @@
+**中文** | [English](README.md)
+
+---
+
 # Clash Verge Auto Switch
 
 > 在 macOS 上自动检测 Clash 选择器组并切换到最快的可用节点。

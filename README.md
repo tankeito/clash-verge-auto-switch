@@ -1,3 +1,7 @@
+[中文](README_ZH.md) | **English**
+
+---
+
 # Clash Verge Auto Switch
 
 > Automatically detect live Clash selector groups and switch to the fastest working node on macOS.
